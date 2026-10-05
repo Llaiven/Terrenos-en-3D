@@ -4,7 +4,7 @@ Escena 3D creada en Unity con las herramientas de diseño de terrenos: un paisaj
 
 ## Video de demostración
 
-> **Pendiente:** reemplazar esta línea por el enlace al video (3 a 5 minutos).
+> https://drive.google.com/file/d/1v93MugIAtAXfy3Lwhutl4T_a2H-NP1zP/view?usp=sharing
 
 ## Descripción de la escena
 
